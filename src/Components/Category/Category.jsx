@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Category = ({category1}) => {
@@ -17,9 +18,11 @@ const Category = ({category1}) => {
       
      
     return (
+      
         <div>
-            <div className="card  bg-base-100 shadow-xl" style={cardStyle}>
-  <figure><img src={picture} alt="Shoes" /></figure>
+          <Link to="/donation">
+          <div className="card w-80  bg-base-100 shadow-xl" style={cardStyle}>
+  <figure className="w-80 rounded-md"><img src={picture}  /></figure>
   <div className="card-body">
     <div style={titleStyle}>
     <h2 className="card-title w-2/4 px-3 py-0 rounded-lg"  style={{ color: text_button_bg_color }}>{category}</h2>
@@ -28,8 +31,10 @@ const Category = ({category1}) => {
     
   </div>
 </div>
+          </Link>
         </div>
     );
+      
 };
 
 export default Category;
