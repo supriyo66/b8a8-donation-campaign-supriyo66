@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+      "picture": "https://i.ibb.co/xSN74BW/Health.png",
+      "title": "Healthy Lifestyle Book",
+      "category": "Health",
+      "category_bg_color": "#C8E6C9",
+      "card_bg_color": "#E8F5E9",
+      "text_button_bg_color": "#43A047",
+      "description": "A guide to a healthier lifestyle with tips and advice.",
+      "price": "$19.99"
+    },
+    {
+        "id": 2,
+      "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
+      "title": "Educational Puzzle Set",
+      "category": "Education",
+      "category_bg_color": "#BBDEFB",
+      "card_bg_color": "#E3F2FD",
+      "text_button_bg_color": "#1976D2",
+      "description": "A fun and educational puzzle set for kids.",
+      "price": "$14.99"
+    },
+    {
+        "id": 3,
+      "picture": "https://i.ibb.co/2KG8bGy/Food.png",
+      "title": "Organic Food Basket",
+      "category": "Food",
+      "category_bg_color": "#FFECB3",
+      "card_bg_color": "#FFF8E1",
+      "text_button_bg_color": "#FFA000",
+      "description": "A basket full of fresh organic fruits and vegetables.",
+      "price": "$29.99"
+    },
+    {
+        "id": 4,
+      "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
+      "title": "Warm Winter Jacket",
+      "category": "Clothing",
+      "category_bg_color":"#FFCCBC",
+      "card_bg_color": "#FFEBEE",
+      "text_button_bg_color": "#E64A19",
+      "description": "Stay cozy with this stylish winter jacket.",
+      "price": "$59.99"
+    },
+    {
+        "id": 5,
+      "picture": "https://i.ibb.co/xSN74BW/Health.png",
+      "title": "Yoga Mat",
+      "category": "Health",
+      "category_bg_color": "#C8E6C9",
+      "card_bg_color": "#E8F5E9",
+      "text_button_bg_color": "#43A047",
+      "description": "A high-quality yoga mat for your daily practice.",
+      "price": "$24.99"
+    },
+    {
+        "id": 6,
+      "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
+      "title": "Math Workbook",
+      "category": "Education",
+      "category_bg_color": "#BBDEFB",
+      "card_bg_color": "#E3F2FD",
+      "text_button_bg_color": "#1976D2",
+      "description": "A workbook for sharpening your math skills.",
+      "price": "$9.99"
+    },
+    {
+        "id": 7,
+      "picture": "https://i.ibb.co/2KG8bGy/Food.png",
+      "title": "Farm-Fresh Eggs",
+      "category": "Food",
+      "category_bg_color": "#FFECB3",
+      "card_bg_color": "#FFF8E1",
+      "text_button_bg_color": "#FFA000",
+      "description": "Delicious farm-fresh eggs for your breakfast.",
+      "price": "$4.99"
+    },
+    {
+        "id": 8,
+      "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
+      "title": "Casual T-Shirt",
+      "category": "Clothing",
+      "category_bg_color": "#FFCCBC",
+      "card_bg_color": "#FFEBEE",
+      "text_button_bg_color": "#E64A19",
+      "description": "A comfortable and stylish casual T-shirt.",
+      "price": "$19.99"
+    },
+    {
+        "id": 9,
+      "picture": "https://i.ibb.co/xSN74BW/Health.png",
+      "title": "Meditation Guide",
+      "category": "Health",
+      "category_bg_color": "#C8E6C9",
+      "card_bg_color": "#E8F5E9",
+      "text_button_bg_color": "#43A047",
+      "description": "A guide to meditation and inner peace.",
+      "price": "$12.99"
+    },
+    {
+        "id": 10,
+      "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
+      "title": "Science Kit",
+      "category": "Education",
+      "category_bg_color": "#BBDEFB",
+      "card_bg_color": "#E3F2FD",
+      "text_button_bg_color": "#1976D2",
+      "description": "A science kit for young scientists to explore.",
+      "price": "$17.99"
+    },
+    {
+        "id": 11,
+      "picture": "https://i.ibb.co/2KG8bGy/Food.png",
+      "title": "Organic Tea Assortment",
+      "category": "Food",
+      "category_bg_color": "#FFECB3",
+      "card_bg_color": "#FFF8E1",
+      "text_button_bg_color": "#FFA000",
+      "description": "A variety of organic teas for tea lovers.",
+      "price": "$8.99"
+    },
+    {
+        "id": 12,
+      "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
+      "title": "Winter Scarf",
+      "category": "Clothing",
+      "category_bg_color": "#FFCCBC",
+      "card_bg_color": "#FFEBEE",
+      "text_button_bg_color": "#E64A19",
+      "description": "Stay warm and fashionable with this winter scarf.",
+      "price": "$14.99"
+    }
+  ]
+  
