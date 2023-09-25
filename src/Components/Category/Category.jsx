@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 
 const Category = ({category1}) => {
-    const {picture,category,description,card_bg_color,category_bg_color,text_button_bg_color}=category1;
+    const {id,picture,category,description,card_bg_color,category_bg_color,text_button_bg_color}=category1;
     const cardStyle = {
         backgroundColor: card_bg_color,
       };
@@ -20,7 +20,7 @@ const Category = ({category1}) => {
     return (
       
         <div>
-          <Link to="/donation">
+          <Link to={`/category1/${id}`}>
           <div className="card w-80  bg-base-100 shadow-xl" style={cardStyle}>
   <figure className="w-80 rounded-md"><img src={picture}  /></figure>
   <div className="card-body">
