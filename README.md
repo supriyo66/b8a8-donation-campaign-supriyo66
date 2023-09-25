@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PROJECT FEATURES: 
 
-Currently, two official plugins are available:
+React Components:
+The code includes multiple React components for different sections of a web application, such as the homepage, donation page, statistics page, error handling, and category details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router:
+It uses React Router to manage client-side routing, enabling navigation between different sections of the web app.
+
+Banner Component:
+There's a banner component with a dynamic background image and a search input field, enhancing the visual appeal of the homepage.
+
+Category Listing:
+The code fetches and displays a list of categories with associated data, such as images, titles, descriptions, and prices.
