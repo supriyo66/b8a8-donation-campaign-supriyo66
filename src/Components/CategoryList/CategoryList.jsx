@@ -11,7 +11,7 @@ const CategoryList = () => {
         .then(data=>setCategories(data))
     },[])
     return (
-        <div className=" container mx-auto grid grid-cols-4 gap-5 mt-10">
+        <div className=" container mx-auto grid grid-cols-1  md:grid-cols-2  lg:grid-cols-4 gap-5 mt-10">
             
             {
               categories.map(category1=><Category key={category1.id} category1={category1}></Category>)

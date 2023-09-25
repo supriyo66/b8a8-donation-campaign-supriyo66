@@ -1,98 +1,110 @@
 [
     {
-        "id": 1,
-        "picture": "https://example.com/picture1.jpg",
+        "id":2 ,
+        "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
         "title": "Education Superbook",
         "description": "Unlock the door to knowledge with this comprehensive education item. It's designed to empower learners of all ages, from students seeking academic excellence to lifelong learners hungry for new skills. Dive into engaging lessons, interactive quizzes, and hands-on activities that make learning a joy. Invest in your future by investing in education.",
         "category": "Education",
+        "text_button_bg_color": "#1976D2",
         "price": "$19.99"
     },
     {
-        "id": 2,
-        "picture": "https://example.com/picture2.jpg",
+        "id": 6,
+        "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
         "title": "Learning Adventures Pack",
         "description": "Experience the ultimate education masterclass with this exceptional item. It's tailored for students, professionals, and knowledge seekers. Delve into a world of interactive lessons, expert insights, and skill-building exercises. Elevate your learning journey with this transformative education masterpiece.",
         "category": "Education",
+        "text_button_bg_color": "#1976D2",
         "price": "$14.99"
     },
     {
-        "id": 3,
-        "picture": "https://example.com/picture3.jpg",
+        "id": 10,
+        "picture": "https://i.ibb.co/ZNfbn4H/Education.png",
         "title": "Mastering the Art of Learning",
         "description": "Embark on an exciting learning adventure with this item. It's your passport to a world of knowledge and growth. Whether you're a curious explorer or a dedicated student, this item offers a treasure trove of wisdom. Unleash your potential and embrace the thrill of lifelong learning.",
         "category": "Education",
+        "text_button_bg_color": "#1976D2",
         "price": "$24.99"
     },
     {
-        "id": 4,
-        "picture": "https://example.com/picture4.jpg",
+        "id": 3,
+        "picture": "https://i.ibb.co/2KG8bGy/Food.png",
         "title": "Farm-to-Table Delights",
         "description": "Savor farm-to-table delights with this exquisite food item. Indulge in the bounty of nature with farm-fresh eggs, organic fruits, and vegetables. Elevate your culinary experience and nourish your body with the goodness of wholesome foods.",
         "category": "Food",
+        "text_button_bg_color": "#FFA000",
         "price": "$29.99"
     },
     {
-        "id": 5,
-        "picture": "https://example.com/picture5.jpg",
+        "id": 7,
+        "picture": "https://i.ibb.co/2KG8bGy/Food.png",
         "title": "Tea Lover's Paradise",
         "description": "Embark on a tea lover's paradise with this delectable food item. Explore a diverse selection of organic teas that will delight your senses. From soothing herbal infusions to bold black teas, this item offers a tea experience like no other.",
         "category": "Food",
+        "text_button_bg_color": "#FFA000",
         "price": "$12.99"
     },
     {
-        "id": 6,
-        "picture": "https://example.com/picture6.jpg",
+        "id": 11,
+        "picture": "https://i.ibb.co/2KG8bGy/Food.png",
         "title": "Gourmet Food Adventure",
         "description": "Embark on a gourmet food adventure with this culinary delight. From artisanal cheeses to exotic spices, this food item invites you to explore the world of gastronomy. Elevate your cooking and dining experience with this extraordinary collection.",
         "category": "Food",
+        "text_button_bg_color": "#FFA000",
         "price": "$8.99"
     },
     {
-        "id": 7,
-        "picture": "https://example.com/picture7.jpg",
+        "id": 4,
+        "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
         "title": "Winter Wardrobe Essentials",
         "description": "Upgrade your winter wardrobe with these essential clothing items. Stay warm and stylish with a cozy winter jacket, trendy scarves, and comfortable T-shirts. Make a fashion statement while braving the cold.",
         "category": "Clothing",
+        "text_button_bg_color": "#E64A19",
         "price": "$49.99"
     },
     {
         "id": 8,
-        "picture": "https://example.com/picture8.jpg",
+        "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
         "title": "Casual Chic Collection",
         "description": "Elevate your casual wardrobe with this chic clothing collection. From comfortable T-shirts for laid-back days to stylish winter jackets for outdoor adventures, this item offers a range of fashion choices that blend comfort and style seamlessly.",
         "category": "Clothing",
+        "text_button_bg_color": "#E64A19",
         "price": "$19.99"
     },
     {
-        "id": 9,
-        "picture": "https://example.com/picture9.jpg",
+        "id": 12,
+        "picture": "https://i.ibb.co/HHqzdTn/Clothing.png",
         "title": "Fashion Forward",
         "description": "Step into the world of fashion-forward clothing with this exceptional item. Whether you're looking for a statement piece or a cozy winter accessory, this collection has it all. Embrace your unique style and express yourself through fashion.",
         "category": "Clothing",
+        "text_button_bg_color": "#E64A19",
         "price": "$34.99"
     },
     {
-        "id": 10,
-        "picture": "https://example.com/picture10.jpg",
+        "id": 1,
+        "picture": "https://i.ibb.co/xSN74BW/Health.png",
         "title": "Mindful Living",
         "description": "Embark on a journey of mindful living with this health item. Find inner peace and well-being through meditation guides and high-quality yoga mats. Prioritize self-care and nurture your body and mind.",
         "category": "Health",
+        "text_button_bg_color": "#43A047",
         "price": "$39.99"
     },
     {
-        "id": 11,
-        "picture": "https://example.com/picture11.jpg",
+        "id": 5,
+        "picture": "https://i.ibb.co/xSN74BW/Health.png",
         "title": "Inner Harmony",
         "description": "Discover inner harmony and tranquility with this health item. Dive into the world of meditation and mindfulness, and enhance your physical well-being with top-notch yoga mats. Embrace a balanced and peaceful life.",
         "category": "Health",
+        "text_button_bg_color": "#43A047",
         "price": "$29.99"
     },
     {
-        "id": 12,
-        "picture": "https://example.com/picture12.jpg",
+        "id": 9,
+        "picture": "https://i.ibb.co/xSN74BW/Health.png",
         "title": "Holistic Wellness",
         "description": "Achieve holistic wellness with this comprehensive health item. It's your guide to a healthier, more balanced life. Explore meditation practices, find inner peace, and enhance your daily yoga routine with premium mats. Prioritize your well-being and embrace a holistic approach to health.",
         "category": "Health",
+        "text_button_bg_color": "#43A047",
         "price": "$49.99"
     }
 ]

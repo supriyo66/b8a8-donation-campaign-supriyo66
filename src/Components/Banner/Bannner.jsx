@@ -5,15 +5,7 @@ const Bannner = () => {
         backgroundImage: `url(${bgi})`,
     };
     return (
-        // <div className="text-center bg-cover h-[500px] bg-black" style={bgStyle}>
-        //    <div className="py-60">
-        //    <h1 className="text-3xl font-bold">I Grow By Helping People In Need</h1>
-        //     <div className="mt-4">
-        //     <input className="border-2 border-black rounded" type="text" placeholder="Search Here" ></input>
-        //     <button className="bg-red-400 p-1 py-0.5 rounded">Search</button>
-        //     </div>
-        //    </div>
-        // </div>
+      
         <div className="container mx-auto ">
             <div className="hero h-[400px]" style={bgStyle}>
   <div className="hero-overlay bg-white bg-opacity-95"></div>

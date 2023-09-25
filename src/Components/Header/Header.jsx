@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
     const links=<>
-        <li className="focus:bg-red300 hover:bg-red-400 rounded-md"><Link to="/">Home</Link></li>
-        <li className="focus:bg-red-300 hover:bg-red-400 rounded-md"><Link to="/donation">Donation</Link></li>
-        <li className="focus:bg-red-300 hover:bg-red-400 rounded-md"><Link to="/statistic">Statistic</Link></li>
+        <li className="focus:bg-red300 hover:bg-red-400 rounded-md text-2xl"><Link to="/">Home</Link></li>
+        <li className="focus:bg-red-300 hover:bg-red-400 rounded-md  text-2xl"><Link to="/donation">Donation</Link></li>
+        <li className="focus:bg-red-300 hover:bg-red-400 rounded-md text-2xl"><Link to="/statistic">Statistic</Link></li>
     
     </>
     return (

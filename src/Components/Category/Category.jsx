@@ -19,9 +19,9 @@ const Category = ({category1}) => {
      
     return (
       
-        <div>
+        <div className="">
           <Link to={`/category1/${id}`}>
-          <div className="card w-80  bg-base-100 shadow-xl" style={cardStyle}>
+          <div className=" container mx-auto card w-80  bg-base-100 shadow-xl" style={cardStyle}>
   <figure className="w-80 rounded-md"><img src={picture}  /></figure>
   <div className="card-body">
     <div style={titleStyle}>

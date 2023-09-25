@@ -13,6 +13,9 @@ import Statistic from './Components/Statistic/Statistic';
 import Error from './Components/ErrorPage/Error';
 import CategoryDetails from './Components/CategoryDetails/CategoryDetails';
 
+
+
+
 const router = createBrowserRouter([
   {
     path: "/",
