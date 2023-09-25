@@ -21,7 +21,7 @@ const Header = () => {
       </ul>
     </div>
     <div className="ml-24  md:ml-72 lg:ml-0">
-    <img className=""  src="/Resources/Logo.png"></img>
+    <img className=""  src={`https://i.ibb.co/12hL7yY/Logo.png`}></img>
     </div>
   </div>
   <div className="navbar-center hidden lg:flex">
