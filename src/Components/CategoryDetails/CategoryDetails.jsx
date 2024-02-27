@@ -35,9 +35,9 @@ const CategoryDetails = () => {
        <div className="container mx-auto ">
         
         
-         <div className="container mx-auto w-3/4   mt-10 relative">
-            <div className="flex-row justify-center items-center ">
-                <img className="w-3/4 h-[400px] " src={category.picture}></img>
+         <div className="container mx-auto w-3/4   mt-10 relative ">
+            <div className="flex-row justify-center items-center text-center ">
+                <img className="w-3/4 h-[250px] md:h-[400px] " src={category.picture}></img>
                 <div style={overlayStyle}> </div>
                 <div className="absolute -mt-9  ml-3 p-1 rounded" style={buttonStyle}>
                 <button onClick={notify} >Donate <span>{category.price}</span></button><Toaster />
